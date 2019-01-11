@@ -8,4 +8,4 @@
 
 > A custom rounded version for PCB manufacturig based on the open source modern DIN [Gidole](http://gidole.github.io)
 
-[Source](htotps://github.com/13-Types/Gidole)
+[Source](https://github.com/13-Types/Gidole)

@@ -2,5 +2,5 @@
 
 Some resources for our projects.
 
-  * [Logos](Logos)
-  * [Fonts](Fonts)
+  * [Logos](logos)
+  * [Fonts](fonts)

@@ -4,7 +4,9 @@
 
 ### Diamond
 
+  * awg diamond ascii.txt
   * awg diamond black.eps
+  * awg diamond engrave.eps
   * awg diamond yellow-green 80.jpg
   * awg diamond yellow-green 512.jpg
   * awg diamond gitfooter grey.png
